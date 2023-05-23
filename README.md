@@ -11,7 +11,7 @@ Se você quer mover e transformar um grande volume de dados em tempo real entre 
 Primeiro projeto de Estudo Apache Kafka
 
 
-Staks adiquiridas:
+Skills adiquiridas:
 
 Apache Kafka
 Spring Boot
