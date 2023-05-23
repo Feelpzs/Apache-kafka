@@ -1,0 +1,95 @@
+[33mcommit 4552f77776f0d66248480c4a7ad14d35415308a2[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Valdir Cezar <58149445+ValdirCezar@users.noreply.github.com>
+Date:   Sun Mar 6 16:55:08 2022 -0300
+
+    Update application.yml
+
+[33mcommit 053b1620580ec324661a572180b204e1d2dc5663[m
+Author: Valdir Cezar de Jesus <valdir@MacBook-Air-de-Valdir.local>
+Date:   Tue Feb 22 09:40:06 2022 -0300
+
+    up stack
+
+[33mcommit 5309024d147babd743044042ad3bdce904cdfefb[m
+Author: Valdir Cezar de Jesus <valdir@MacBook-Air-de-Valdir.local>
+Date:   Sat Feb 12 16:58:32 2022 -0300
+
+    gerando imagens dos projetos
+
+[33mcommit 5d5c2934f2a7cdf6ec5a214f0fad0ea44b944aa7[m
+Author: Valdir Cezar de Jesus <valdir@MacBook-Air-de-Valdir.local>
+Date:   Sat Feb 12 15:46:12 2022 -0300
+
+    add json consumer
+
+[33mcommit fec37a1158f0b7b29514332356643b87d8a74260[m
+Author: Valdir Cezar de Jesus <valdir@MacBook-Air-de-Valdir.local>
+Date:   Sat Feb 12 14:54:47 2022 -0300
+
+    add producer config
+
+[33mcommit 4ea5d0fbec0e5e0c92e1610febce58fa3b60814c[m
+Author: Valdir Cezar de Jesus <valdir@MacBook-Air-de-Valdir.local>
+Date:   Sat Feb 12 10:44:19 2022 -0300
+
+    create payment topic
+
+[33mcommit 8eab13fa7c1b7f56f06695c892116cede8a1230a[m
+Author: Valdir Cezar de Jesus <valdir@MacBook-Air-de-Valdir.local>
+Date:   Sat Feb 12 10:07:33 2022 -0300
+
+    start payment service
+
+[33mcommit b0e170bba7490b126ce9cb3455bc000cdf9eeee6[m
+Author: Valdir Cezar de Jesus <valdir@MacBook-Air-de-Valdir.local>
+Date:   Fri Feb 11 12:58:17 2022 -0300
+
+    error handler
+
+[33mcommit 37a3ddbc98128bbca8e6bd18964ade34e97a37c9[m
+Author: Valdir Cezar de Jesus <valdir@MacBook-Air-de-Valdir.local>
+Date:   Fri Feb 11 09:04:08 2022 -0300
+
+    record interceptor
+
+[33mcommit d5cb8186a9f984d86a2882079441a95b0aeeb1f1[m
+Author: Valdir Cezar de Jesus <valdir@MacBook-Air-de-Valdir.local>
+Date:   Fri Feb 11 08:35:28 2022 -0300
+
+    custom listener
+
+[33mcommit 19cd239f227582c0473c60648e5c0ca999f7c379[m
+Author: Valdir Cezar de Jesus <valdir@MacBook-Air-de-Valdir.local>
+Date:   Thu Feb 10 19:41:17 2022 -0300
+
+    defining partitions for consumers
+
+[33mcommit 6734ac494082ee75d0addd2e5a135cdadb403f1a[m
+Author: Valdir Cezar de Jesus <valdir@MacBook-Air-de-Valdir.local>
+Date:   Thu Feb 10 19:06:20 2022 -0300
+
+    str consumer created
+
+[33mcommit 656663fbac7e8b2174b5229d8f9bdb26aaa979d4[m
+Author: Valdir Cezar de Jesus <valdir@MacBook-Air-de-Valdir.local>
+Date:   Thu Feb 10 16:37:57 2022 -0300
+
+    add calback function to sendMessage function
+
+[33mcommit 13610b35ecffa2e9428d2350406b6f678ddff29b[m
+Author: Valdir Cezar de Jesus <valdir@MacBook-Air-de-Valdir.local>
+Date:   Thu Feb 10 11:03:30 2022 -0300
+
+    send first message
+
+[33mcommit 0c5b1ef30365045b2a90127c251ee843e0b7b2ab[m
+Author: Valdir Cezar de Jesus <valdir@MacBook-Air-de-Valdir.local>
+Date:   Wed Feb 9 17:48:30 2022 -0300
+
+    configure kafka admin
+
+[33mcommit 9a906eece450275a29965056969d73d78e59aa00[m
+Author: Valdir Cezar de Jesus <valdir@MacBook-Air-de-Valdir.local>
+Date:   Tue Feb 8 20:44:20 2022 -0300
+
+    str-producer started
