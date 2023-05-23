@@ -10,7 +10,6 @@ Se você quer mover e transformar um grande volume de dados em tempo real entre 
 
 Primeiro projeto de Estudo Apache Kafka
 
-Aqui aprendi os conceitos de criação em cogido Produtor/Consumidor, Partições e Topicos e Mensageria 
 
 Staks adiquiridas:
 
